@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Best Game Ever</string>
+    <string name="main_message">DO NOT touch the screen</string>
+    <string name="congrats">CONGRATULATIONS</string>
+    <string name="lost">You lost.</string>
+    <string name="alert_message">Be advised: this game is about human weakness, inability of resisting suggestions in certain situations and can cause mild depression. Do you still want to play this game?</string>
+    <string name="alert_title">CAUTION</string>
+    <string name="alert_yes">Yes, I want to take that risk</string>
+    <string name="alert_no">No, get me outta here</string>
+</resources>
